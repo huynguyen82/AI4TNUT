@@ -1,5 +1,5 @@
 # AI4TNUT
-Chuỗi bài trình bày về AI cho TNUT với mục đích đưa AI tới gần TNUT hơn, lan tỏa được phòng trào làm và ứng dụng AI.
+Chuỗi bài trình bày về AI cho TNUT với mục đích đưa AI tới gần TNUT hơn, lan tỏa được phòng trào làm và ứng dụng AI. Các bài trình bày sử dụng Ngôn từ phổ thông, cách tiếp cận bình dân để hiểu.
 --------------
 - Link bài giảng Github: https://github.com/huynguyen82/AI4TNUT
 - Link videos: https://youtube.com/playlist?list=PL-fn5xiTAlKZmArv7yQs58D2K1U3_Fe4Q&si=5V9tmiP6rghjaMvx
